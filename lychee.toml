@@ -1,5 +1,5 @@
 # Many big sites block bots or rate-limit them; treat those responses as "alive".
-accept = ["200..=206", "403", "429"]
+accept = ["200..=206", "401", "403", "429", "999"]
 max_retries = 3
 timeout = 30
 exclude = [
