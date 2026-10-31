@@ -1,0 +1,20 @@
+name: Awesome lint
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Point the branch at origin (awesome-lint reads it)
+        run: git config "branch.$(git branch --show-current || echo main).remote" origin || true
+      - run: npx --yes awesome-lint

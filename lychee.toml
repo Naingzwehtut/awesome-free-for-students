@@ -1,0 +1,8 @@
+# Many big sites block bots or rate-limit them; treat those responses as "alive".
+accept = ["200..=206", "403", "429"]
+max_retries = 3
+timeout = 30
+exclude = [
+  "^https://github.com/Naingzwehtut/awesome-free-for-students/actions",
+  "^https://img.shields.io",
+]

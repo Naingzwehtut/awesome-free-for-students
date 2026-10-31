@@ -1,0 +1,27 @@
+name: Suggest a new offer
+description: Tell us about a free (or heavily discounted) student offer that isn't listed yet.
+title: "New offer: "
+labels: ["new offer"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Tool or service
+      placeholder: e.g. JetBrains
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Official offer page
+      description: A page from the company itself, not a blog post or coupon site.
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What do students get?
+      description: Duration, limits, age, regions, and how to verify.
+    validations:
+      required: true
