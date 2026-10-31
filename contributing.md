@@ -24,7 +24,7 @@ Thanks for helping students save money! This list stays useful only if every ent
 
 ## Reporting a dead or changed offer
 
-[Open an issue](../../issues/new/choose) using the "Offer ended or changed" template, or send a pull request that moves the entry to the [Recently ended](readme.md#recently-ended) table.
+[Open an issue](https://github.com/Naingzwehtut/awesome-free-for-students/issues/new/choose) using the "Offer ended or changed" template, or send a pull request that moves the entry to the [Recently ended](readme.md#recently-ended) table.
 
 ## Pull request checklist
 
