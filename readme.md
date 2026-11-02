@@ -155,6 +155,7 @@ Pack offers are listed in their categories below with the 🎒 tag. The pack als
 
 ## Productivity and office
 
+- [Kilobat Pro for Students](https://kilobat.app/students) - Mac network diagnostics and bandwidth controls; students aged 13+ in a qualifying degree-granting course can request one free year on two Macs and request another year while enrolled. Region not specified; no payment or account required. 📧
 - [Microsoft 365 A1](https://www.microsoft.com/en-us/education/products/office) - Word, Excel, PowerPoint, OneNote and Outlook on the web, free with an eligible school email. Desktop apps are not included. 📧 🌍
 - [Notion](https://www.notion.com/en-us/help/notion-for-education) - Free Education plan for university students. Your school email must be your main Notion email, and you re-verify yearly. Not available for K-12. 📧 🔁
 
