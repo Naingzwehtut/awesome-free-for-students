@@ -155,6 +155,7 @@ Pack offers are listed in their categories below with the 🎒 tag. The pack als
 
 ## Productivity and office
 
+- [Glasp Student](https://glasp.co/students) - Free plan for university students: highlights on web pages, PDFs and YouTube, AI summaries and AI chat, with limits shown on the official page. Lasts 12 months, renewable while enrolled. Must be 18+, and the account email must be a school address. 📧 🔁
 - [Microsoft 365 A1](https://www.microsoft.com/en-us/education/products/office) - Word, Excel, PowerPoint, OneNote and Outlook on the web, free with an eligible school email. Desktop apps are not included. 📧 🌍
 - [Notion](https://www.notion.com/en-us/help/notion-for-education) - Free Education plan for university students. Your school email must be your main Notion email, and you re-verify yearly. Not available for K-12. 📧 🔁
 
