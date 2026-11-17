@@ -15,8 +15,17 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
-      - name: Point the branch at origin (awesome-lint reads it)
-        run: git config "branch.$(git branch --show-current || echo main).remote" origin || true
+      # awesome-lint finds the repo through the current branch's remote. Pull
+      # requests are checked out on a detached HEAD, and its fallback for that
+      # case breaks on newer git, so always give it a named branch on origin.
+      - name: Put HEAD on a branch that tracks origin (awesome-lint reads it)
+        run: |
+          branch="$(git branch --show-current)"
+          if [ -z "$branch" ]; then
+            branch=lint-check
+            git checkout -q -B "$branch"
+          fi
+          git config "branch.$branch.remote" origin
       - name: Run awesome-lint
         run: |
           npx --yes awesome-lint 2>&1 | tee lint.txt || true
