@@ -108,6 +108,7 @@ Pack offers are listed in their categories below with the 🎒 tag. The pack als
 - [Doppler](https://www.doppler.com) - Manage secrets and environment variables, free while you're a student. 🎒
 - [LocalStack](https://www.localstack.cloud) - Run AWS services on your own machine, free license. 🎒
 - [Deepnote](https://deepnote.com) - Collaborative data science notebooks, Team plan while you're a student. 🎒
+- [Kilobat Pro for Students](https://kilobat.app/students) - Mac network diagnostics and bandwidth controls; students aged 13+ in a qualifying degree-granting course can request one free year on two Macs and request another year while enrolled. Region not specified; no payment or account required. 📧 🔁
 
 ## Cloud, hosting and databases
 
@@ -155,7 +156,7 @@ Pack offers are listed in their categories below with the 🎒 tag. The pack als
 
 ## Productivity and office
 
-- [Kilobat Pro for Students](https://kilobat.app/students) - Mac network diagnostics and bandwidth controls; students aged 13+ in a qualifying degree-granting course can request one free year on two Macs and request another year while enrolled. Region not specified; no payment or account required. 📧
+- [Glasp Student](https://glasp.co/students) - Free plan for university students: highlights on web pages, PDFs and YouTube, AI summaries and AI chat, with limits shown on the official page. Lasts 12 months, renewable while enrolled. Must be 18+, and the account email must be a school address. 📧 🔁
 - [Microsoft 365 A1](https://www.microsoft.com/en-us/education/products/office) - Word, Excel, PowerPoint, OneNote and Outlook on the web, free with an eligible school email. Desktop apps are not included. 📧 🌍
 - [Notion](https://www.notion.com/en-us/help/notion-for-education) - Free Education plan for university students. Your school email must be your main Notion email, and you re-verify yearly. Not available for K-12. 📧 🔁
 
@@ -192,6 +193,7 @@ No student status needed. Great if you can't get verified yet.
 
 - [CS50](https://cs50.harvard.edu) - Harvard's legendary intro to computer science, free online.
 - [freeCodeCamp](https://www.freecodecamp.org) - Thousands of hours of coding lessons with free certifications.
+- [StudyArena](https://studyarena.com/pricing) - Ongoing free plan to compare three blind AI answers to study questions, vote, reveal the models and save history. Free account required; ages 13+ or the higher local minimum, with parental permission for minors.
 - [The Odin Project](https://www.theodinproject.com) - Full-stack web development curriculum, project-based.
 - [Tableau Public](https://tableau.com/blog/tableau-students-free-access-tableau-desktop) - Tableau's student program became a free Public Edition for all learners. It can't be used commercially.
 
