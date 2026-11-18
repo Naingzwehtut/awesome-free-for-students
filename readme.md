@@ -192,6 +192,7 @@ No student status needed. Great if you can't get verified yet.
 
 - [CS50](https://cs50.harvard.edu) - Harvard's legendary intro to computer science, free online.
 - [freeCodeCamp](https://www.freecodecamp.org) - Thousands of hours of coding lessons with free certifications.
+- [StudyArena](https://studyarena.com/pricing) - Ongoing free plan to compare three blind AI answers to study questions, vote, reveal the models and save history. Free account required; ages 13+ or the higher local minimum, with parental permission for minors.
 - [The Odin Project](https://www.theodinproject.com) - Full-stack web development curriculum, project-based.
 - [Tableau Public](https://tableau.com/blog/tableau-students-free-access-tableau-desktop) - Tableau's student program became a free Public Edition for all learners. It can't be used commercially.
 
