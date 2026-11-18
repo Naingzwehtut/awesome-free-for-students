@@ -179,7 +179,7 @@ Pack offers are listed in their categories below with the 🎒 tag. The pack als
 These aren't software, but they're free to join and can change your career.
 
 - [Google Summer of Code](https://summerofcode.withgoogle.com) - Get paid a stipend to contribute to open source over the summer, with a mentor. Open to students and beginners aged 18+. 🌍
-- [Swift Student Challenge](https://developer.apple.com/swift-student-challenge/apply) - Apple's yearly app competition; submissions usually open in February. Winners get prizes and recognition from Apple. 🌍
+- [Swift Student Challenge](https://developer.apple.com/swift-student-challenge/) - Apple's yearly app competition; submissions usually open in February. Winners get prizes and recognition from Apple. 🌍
 - [MLH Fellowship](https://fellowship.mlh.io) - Remote, team-based program working on real open-source and software projects. 🌍
 - [GitHub Campus Experts](https://education.github.com/experts) - Training and support for students who want to lead tech communities at their school. 🌍
 
