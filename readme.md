@@ -108,6 +108,7 @@ Pack offers are listed in their categories below with the 🎒 tag. The pack als
 - [Doppler](https://www.doppler.com) - Manage secrets and environment variables, free while you're a student. 🎒
 - [LocalStack](https://www.localstack.cloud) - Run AWS services on your own machine, free license. 🎒
 - [Deepnote](https://deepnote.com) - Collaborative data science notebooks, Team plan while you're a student. 🎒
+- [Kilobat Pro for Students](https://kilobat.app/students) - Mac network diagnostics and bandwidth controls; students aged 13+ in a qualifying degree-granting course can request one free year on two Macs and request another year while enrolled. Region not specified; no payment or account required. 📧 🔁
 
 ## Cloud, hosting and databases
 
